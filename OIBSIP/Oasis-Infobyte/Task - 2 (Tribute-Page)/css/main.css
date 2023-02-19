@@ -104,3 +104,32 @@ html {
   text-align: center;
   margin-top: 2vw;
 }
+
+/* ----- Fourth div ----- */
+
+#fourth-div {
+  background-color: #ffd700;
+  min-height: 80vh;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+
+#fourth-div-text {
+  order: 1;
+  flex-grow: 1;
+  min-width: 30%;
+  margin-top: 25vh;
+  font-size: 2.3em;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  font-weight: 400;
+  margin-bottom: 25vh;
+}
+
+#steve-jobs-quote {
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
