@@ -55,6 +55,12 @@ img{
     margin-bottom: 20px;
 }
 
+.about_section h3{
+    font-size: 25px;
+    font-weight: 300;
+    margin-bottom: 15px;
+}
+
 .about_section p{
     font-size: 20px;
     line-height: 30px;
